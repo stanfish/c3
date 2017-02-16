@@ -1,7 +1,7 @@
 c3 [![Build Status](https://travis-ci.org/masayuki0812/c3.svg?branch=master)](https://travis-ci.org/masayuki0812/c3)
 ==
 
-c3 is a D3-based reusable chart library that enables deeper integration of charts into web applications..
+c3 is a D3-based reusable chart library that enables deeper integration of charts into web applications.
 
 Follow the link for more information: [http://c3js.org](http://c3js.org/)
 
